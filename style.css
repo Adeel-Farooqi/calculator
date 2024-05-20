@@ -23,8 +23,9 @@ body{
 }
 
 input {
-    width: 320px;
+    width: 220px;
      border: none;
+     outline: none;
      padding: 24px;
      margin: 10px;
      background-color: transparent;
@@ -40,8 +41,8 @@ input::placeholder {
 
 button {
     border: none;
-    width: 60px;
-    height: 60px;
+    width: 30px;
+    height: 30px;
     margin: 10px;
     border-radius: 50%;
     background: transparent;
